@@ -8,13 +8,13 @@ Implementation Details
 
 TEAM MEMBERS:
 
-Adam Mouhtadi:
+Adam Mouhtadi: amouh2
 
 Adam worked on figure 2, finding whether the number is odd using division by repeated subtraction. 
 
-Natalia Smielinski: 
+Natalia Smielinski: nsmie2
 
-Sona Lawrence: 652007412
+Sona Lawrence: slawr3
 
 Natalia and Sona provided assistance on testing and debugging and worked on the README file and Progress report.
 
