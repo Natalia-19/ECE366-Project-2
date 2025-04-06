@@ -1,4 +1,4 @@
-README for Project Report 2 
+README file for Project Report 2 
 
 This project involves designing a MIPS assembly program to determine whether the nth Fibonacci number is odd. The solution consists of three key functions:
 Fibonacci(n): Computes the nth Fibonacci number.
@@ -7,11 +7,18 @@ IsFibonacciOdd(n): Computes the nth Fibonacci number and checks if it is odd.
 Implementation Details
 
 TEAM MEMBERS:
+
 Adam Mouhtadi:
+
 Adam worked on figure 2, finding whether the number is odd using division by repeated subtraction. 
+
 Natalia Smielinski: 
+
 Sona Lawrence: 652007412
-Natalia and Sona provided assistance on testing and debugging and worked on the README and Progress report.
+
+Natalia and Sona provided assistance on testing and debugging and worked on the README file and Progress report.
+
+Project Overview
 
 The following functions are implemented based on the provided pseudo-code:
 
