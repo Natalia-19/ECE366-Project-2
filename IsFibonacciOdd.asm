@@ -1,4 +1,4 @@
-#.text 
+.text 
 	.globl IsFibonacciOdd
 IsFibonacciOdd:
     addi $sp, $sp, -8       # Allocate stack space
